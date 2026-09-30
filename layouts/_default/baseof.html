@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ .Description | default "NeCS PhD Winter School 2027 in Cavalese, Trento" }}">
+    <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} · {{ site.Title }}{{ end }}</title>
+    {{ $style := resources.Get "css/site.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
+  </head>
+  <body>
+    {{ partial "header.html" . }}
+    <main>{{ block "main" . }}{{ end }}</main>
+    {{ partial "footer.html" . }}
+  {{ $gallery := resources.Get "js/gallery.js" | minify | fingerprint }}<script src="{{ $gallery.RelPermalink }}" integrity="{{ $gallery.Data.Integrity }}" defer></script></body>
+</html>

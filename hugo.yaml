@@ -1,0 +1,34 @@
+baseURL: 'https://necs-winterschool.disi.unitn.it/'
+languageCode: en
+title: NeCS PhD Winter School 2027
+enableRobotsTXT: true
+disableKinds: [taxonomy, term]
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+params:
+  dates: '1–8 February 2027'
+  location: 'Cavalese, Trento, Italy'
+  venue: 'Hotel Bellavista'
+  contact: 'bruno.crispo@unitn.it'
+menu:
+  main:
+    - name: Programme
+      pageRef: /programme
+      weight: 10
+    - name: Speakers
+      pageRef: /speakers
+      weight: 20
+    - name: Venue
+      pageRef: /venue
+      weight: 30
+    - name: Committee
+      pageRef: /committee
+      weight: 40
+    - name: Previous editions
+      pageRef: /previous-editions
+      weight: 50
+    - name: Apply
+      pageRef: /apply
+      weight: 60
