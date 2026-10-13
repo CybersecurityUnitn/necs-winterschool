@@ -1,5 +1,5 @@
-baseURL: 'https://cybersecurityunitn.github.io/necs-winterschool/'
-languageCode: en
+baseURL: "https://necs-winterschool.disi.unitn.it/"
+languageCode: "en"
 title: NeCS PhD Winter School 2027
 enableRobotsTXT: true
 disableKinds: [taxonomy, term]
