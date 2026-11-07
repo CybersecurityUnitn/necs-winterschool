@@ -5,5 +5,5 @@ aliases: [/speakers/]
 
 - **[Alessandro Armando](https://www.csec.it/people/alessandro_armando)** — University of Genova
 - **[Giorgio Giacinto](https://web.unica.it/unica/page/en/giorgio_giacinto)** — University of Cagliari
-- **Fabio Martinelli** — National Research Council
-- **[Stefano Zanero] (https://zanero.faculty.polimi.it/)** — Politecnico di Milano 
+- **[Pierangela Samarati](https://scholar.google.com/citations?user=nAGXeFkAAAAJ&hl=en)** — University of Milan
+- **[Stefano Zanero](https://zanero.faculty.polimi.it/)** — Politecnico di Milano 
