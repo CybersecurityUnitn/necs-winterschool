@@ -3,4 +3,7 @@ title: Speakers
 aliases: [/speakers/]
 ---
 
-To be announced soon.
+- **Alessandro Armando** — University of Genova
+- **Andrea Bondavalli** — University of Florence
+- **Fabio Martinelli** — National Research Council
+- **Francesco Palmieri** — University of Salerno 
