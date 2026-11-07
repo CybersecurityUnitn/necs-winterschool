@@ -11,7 +11,9 @@ Cavalese is a charming alpine town in Trentino and the historic centre of Val di
 
 ## How to get there
 
-See [Visit Fiemme’s travel guide](https://www.visitfiemme.it/en/area/mobility/how-to-get-there) for travel options by plane, car, bus and train.
+If you reach Val di Fiemme by train, the closest station is Ora, and from there you can take a 45-minute bus ride to Cavalese. 
+If you reach by plane there is a FlySki shuttle service from several nearby airports.  
+For further options and more detailed information, please see [Visit Fiemme’s travel guide](https://www.visitfiemme.it/en/area/mobility/how-to-get-there) for travel options by plane, car, bus and train.
 
 ## Map
 
