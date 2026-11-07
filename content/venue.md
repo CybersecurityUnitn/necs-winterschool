@@ -3,9 +3,9 @@ title: Venue
 aliases: [/venue/]
 ---
 
-The NeCS PhD Winter School 2027 will take place at [Hotel Bellavista](https://fiemme.hotelbellavista.eu/) from 1 to 8 February 2027 in Cavalese, Trento, Italy.
+The NeCS PhD Winter School 2027 will take place at [Hotel Bellavista](https://fiemme.hotelbellavista.eu/) from 1st to 5th February 2027 in Cavalese, Trento, Italy.
 
-**Full-board accommodation is included in the registration fee.**
+**Half-board accommodation is included in the registration fee.**
 
 Cavalese is a charming alpine town in Trentino and the historic centre of Val di Fiemme. Surrounded by the Dolomites and the Lagorai mountain range, it combines spectacular mountain scenery, a lively historic centre, local traditions and excellent cuisine. In winter, the area is renowned for skiing, cross-country skiing and snow activities.
 
