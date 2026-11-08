@@ -4,7 +4,7 @@ aliases: [/program/, /phd-school-program/, /workshop-program/]
 ---
 
 Preliminary Program
-![Program 2027](/images/logos/Program2027.jpg "Program 2027")
+![Program 2027](static/images/logos/Program2027.jpg "Program 2027")
 
 <figure>
     <img src="images/logos/Program2027.jpg">
