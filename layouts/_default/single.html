@@ -1,1 +1,1 @@
-{{ define "main" }}<header class="page-header"><div class="shell"><p class="eyebrow">NeCS PhD Winter School 2027</p><h1>{{ .Title }}</h1></div></header><article class="shell article"><div class="article-content">{{ .Content }}</div></article>{{ end }}
+{{ define "main" }}<header class="page-header"><div class="shell"><p class="eyebrow">NeCS PhD Winter School 2027</p><h1>{{ .Title }}</h1></div></header><article class="shell article{{ if eq .RelPermalink "/programme/" }} article-program{{ end }}"><div class="article-content">{{ .Content }}</div></article>{{ end }}
