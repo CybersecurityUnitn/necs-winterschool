@@ -3,9 +3,6 @@ title: Program
 aliases: [/program/, /phd-school-program/, /workshop-program/]
 ---
 
-<center>Preliminary Program</center>
+## Preliminary program
 
-<img src="static/images/logos/Program2027.jpg">
-
-
-
+![Preliminary program for the NeCS PhD Winter School 2027](/images/program2027.webp)
